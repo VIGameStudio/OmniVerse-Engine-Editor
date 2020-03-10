@@ -1,2 +1,2 @@
 # OmniVerse-Engine-Editor
-OmniVerse engine graphics library.
+OmniVerse engine editor library.
